@@ -1,8 +1,10 @@
 # seqsen12
  Seqentianal image pairs between Sentinel-1 (GRD) and Sentinel-2 (B/G/R/NIR) ranging 0-10000
 
- OneDrive: https://1drv.ms/u/c/385a9abf2e902c6b/ESULyVdGMptItgGVW93F6GEBXKQqsZ1Y89bg7YANp4nVYA?e=yztiIP
+ OneDrive: 
 
- Baidu Netdisk: https://pan.baidu.com/s/13rYqENQUrcA1VFU3Efsuig code: lekm
+ Baidu Netdisk: 
 
- The related paper is under review.
+ The related paper has just been accepted.
+
+ Data will be made public before 31 July 2025.
